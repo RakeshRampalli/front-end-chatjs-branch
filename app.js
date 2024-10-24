@@ -7,3 +7,4 @@ const icons = {
 const chatbox = new InteractiveChatbox(chatButton, chatContent, icons);
 chatbox.display();
 chatbox.toggleIcon(false, chatButton);
+#this is justfor testing
